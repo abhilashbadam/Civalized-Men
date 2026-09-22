@@ -1,0 +1,12 @@
+{
+  "name": "civilizED MEN",
+  "short_name": "civilizED MEN",
+  "description": "Modern menswear made for India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#151515",
+  "icons": [
+    {"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
